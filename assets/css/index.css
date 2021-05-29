@@ -29,3 +29,37 @@
     float: left;
     margin: 0 20px 20px 0;
 }
+
+.home #pills-pediatrician img {
+    border-radius: 50px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.home #pills-urologist img {
+    border-radius: 50px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.home #pills-psychotherapist img {
+    border-radius: 50px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.home #pills-ophthalmologist img {
+    border-radius: 50px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.home #pills-pediatricneurologist img {
+    border-radius: 50px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+h2, h3 {
+    color: #8EB5BF;
+}
