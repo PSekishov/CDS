@@ -1,0 +1,15 @@
+.about .navbar.navbar-expand-lg.navbar-light.bg-light,
+.about .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 2em 0;
+}
+
+.about .personal h2 {
+    /* margin-top: 50px; */
+    text-align: center;
+    color: #8EB5BF;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 50px;
+}
