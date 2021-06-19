@@ -1,0 +1,23 @@
+.profession .navbar.navbar-expand-lg.navbar-light.bg-light {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 2em 0;
+}
+
+.profession .card-header:first-child {
+    background-color: #8EB5BF;
+    color: white;
+    font-weight: 600;
+    line-height: 35px;
+}
+
+.profession .card-header {
+    background-color: #fff;
+}
+
+.profession .btn.btn-primary.btn-lg.btn-block {
+    background-color: #8EB5BF;
+}
+
+.profession .btn-primary{
+    border-color: transparent;
+}
